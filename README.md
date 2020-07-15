@@ -1,5 +1,5 @@
 # TPU-Multilingual-Toxic-Comment-Classification
-## **Data**
+## **Data** collected from kaggle : -
 
 * The primary data for the competition is, in each provided file, the comment_text column. This contains the text of a comment which has been classified as toxic or non-toxic (0...1 in the toxic column). The **train set’s comments are entirely in english** and come either from **Civil Comments** or **Wikipedia** talk page edits. The **test data**'s comment_text columns are **composed of multiple non-English languages.**
 
